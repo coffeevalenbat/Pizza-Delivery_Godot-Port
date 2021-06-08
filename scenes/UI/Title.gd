@@ -7,7 +7,7 @@ func _ready():
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta):
-	if Input.is_action_just_pressed("ui_select") and IngameMusic.get_node("TitleSong").is_playing():
+	if Input.is_action_just_pressed("ui_select") and $Timer.is_stopped():
 		$Timer.start()
 		IngameMusic.get_node("TitleSong").stop()
 		$SFX.play()
