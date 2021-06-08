@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/pizzatimeFixed.wav-2864d39f89c11e876a2b275ca678c57d.sample"
+
+[deps]
+
+source_file="res://sound/music/pizzatimeFixed.wav"
+dest_files=[ "res://.import/pizzatimeFixed.wav-2864d39f89c11e876a2b275ca678c57d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=true
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

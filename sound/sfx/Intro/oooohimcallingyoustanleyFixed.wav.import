@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/oooohimcallingyoustanleyFixed.wav-9623d6ff03d83c3c68c74447a4e2ac4d.sample"
+
+[deps]
+
+source_file="res://sound/sfx/Intro/oooohimcallingyoustanleyFixed.wav"
+dest_files=[ "res://.import/oooohimcallingyoustanleyFixed.wav-9623d6ff03d83c3c68c74447a4e2ac4d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=true
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

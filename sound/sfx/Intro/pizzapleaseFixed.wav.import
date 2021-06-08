@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/pizzapleaseFixed.wav-6445d1a6446767ced4db9bc5f633b5e0.sample"
+
+[deps]
+
+source_file="res://sound/sfx/Intro/pizzapleaseFixed.wav"
+dest_files=[ "res://.import/pizzapleaseFixed.wav-6445d1a6446767ced4db9bc5f633b5e0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=true
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

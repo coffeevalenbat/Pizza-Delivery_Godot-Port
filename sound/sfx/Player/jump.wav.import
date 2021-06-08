@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/jump.wav-d241337bef637dd60fb2d051d6bcf3cb.sample"
+
+[deps]
+
+source_file="res://sound/sfx/Player/jump.wav"
+dest_files=[ "res://.import/jump.wav-d241337bef637dd60fb2d051d6bcf3cb.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=true
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
