@@ -12,4 +12,4 @@ Click [here](https://snap.berkeley.edu/project?user=jeffreymarx&project=Pizza%20
  - [Postman](https://twitter.com/CreatorPostman) (Intro cutscene)
  - [Coffee Bat](https://twitter.com/Cofebbat) (Soundtrack)
 
-This whole port was made by me in a couple of hours, with the original aim of it being added to Pizza Delivery 2 (Still in development).
+This whole port was made by me in a couple of hours (Plus some days of bugfixing and cleaning), with the original aim of it being added to Pizza Delivery 2 (Still in development).
